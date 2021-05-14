@@ -1,3 +1,8 @@
+## Haixia Xu
+
+I am a student of [School of Geography and Information Engineering](https://xgxy.cug.edu.cn/),[China University of Geosciences(Wu Han)](https://www.cug.edu.cn/). 
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
