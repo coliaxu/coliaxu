@@ -2,7 +2,11 @@
 
 I am a student of [School of Geography and Information Engineering](https://xgxy.cug.edu.cn/),[China University of Geosciences(Wu Han)](https://www.cug.edu.cn/). 
 
-
+### Education
+*   
+* 
+* 
+![](https://th.bing.com/th/id/R10fd17509534b442594752182b87f4bb?rik=GGvZlKrHFHyyeQ&riu=http%3a%2f%2ff.xk.hnlat.com%2fuploadfile%2fschool%2fcug%2flogo.png&ehk=UHBgpHKDenJskGY5tfUR7njzwG1lQnNY2UEgVa849TY%3d&risl=&pid=ImgRaw)
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
