@@ -1,4 +1,4 @@
-## Haixia Xu
+## Xu Haixia
 
 I graduated from [School of Geography and Information Engineering](https://xgxy.cug.edu.cn/),[China University of Geosciences(Wu Han)](https://www.cug.edu.cn/), and now I am a master student of Institute of Geographic Sciences and Natural Resources Research,CAS. My major is natrual resources.
 
@@ -9,7 +9,7 @@ I graduated from [School of Geography and Information Engineering](https://xgxy.
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on map visualization
+- 🔭 I’m currently working on map visualization with python 
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
